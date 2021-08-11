@@ -1,3 +1,5 @@
+// https://github.com/baptisteCanac/loremIpsumGenatorWeb
+
 function getNumber(){
 	let numberOfParagraph = document.getElementById('paragraphNumber').value;
 	let numberOfWords = document.getElementById('wordsNumber').value;
