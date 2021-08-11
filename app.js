@@ -14,7 +14,7 @@ function getNumber(){
 			"url": "https://alexnormand-dino-ipsum.p.rapidapi.com/?paragraphs="+ numberOfParagraph +"&words="+ numberOfWords +"&format=html",
 			"method": "GET",
 			"headers": {
-				"x-rapidapi-key": "45b20fe2fdmsh7fdc8a8e38f20ddp1bd462jsna65b10c1743c",
+				"x-rapidapi-key": "{{ your api key }}",
 				"x-rapidapi-host": "alexnormand-dino-ipsum.p.rapidapi.com"
 				}
 			};
